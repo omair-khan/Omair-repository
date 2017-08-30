@@ -2,8 +2,8 @@ This is going to be an awesome report. Top marks.
 
 This is the updated version from the website, not edited from computer.
 
-<<<<<<< HEAD
 so changing it on desktop
-=======
 I have edited for typos and repeats.  Please check.
->>>>>>> 1dae593ebf22bdcd7db4383a452e8de651f7f542
+
+modifying
+
